@@ -21,8 +21,10 @@ difference.
 - Node.js
 - Visual Studio Code
 
-## Запуск програми
+Запуск програми
 
-```bash 
 node app.js
+
+Посилання на відео
+
 https://drive.google.com/file/d/1YPnpwQBawk3gt-m22VSzY-JS5m79fI0X/view?usp=sharing
